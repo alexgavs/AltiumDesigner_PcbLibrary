@@ -1,0 +1,261 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=K:\ALTIUM\LIB\KitSprout\AltiumDesigner_PcbLibrary\cap7.MDB;Persist Security Info=False
+AddMode=3
+RemoveMode=1
+UpdateMode=2
+ViewMode=0
+LeftQuote=[
+RightQuote=]
+QuoteTableNames=1
+UseTableSchemaName=0
+DefaultColumnType=VARCHAR(255)
+LibraryDatabaseType=Microsoft Access
+LibraryDatabasePath=K:\ALTIUM\LIB\KitSprout\AltiumDesigner_PcbLibrary\cap7.MDB
+DatabasePathRelative=0
+TopPanelCollapsed=0
+LibrarySearchPath=file:///K:/ALTIUM/LIB/cap7symbols;file:///K:/ALTIUM/LIB/cap7footprint
+OrcadMultiValueDelimiter=,
+SearchSubDirectories=0
+SchemaName=
+LastFocusedTable=SCH_Active_SchLib
+SVNRepositoryURL=file:///K:/ALTIUM/LIB/cap7
+FileRepositoryIsRelative=0
+[Table1]
+SchemaName=
+TableName=SCH_Active_SchLib
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=129|Library Ref0=129|Footprint Ref0=118|Footprint Ref 20=101|Footprint Ref 30=106|Footprint Ref 40=106|Footprint Ref 50=102|Value0=52|Type0=51|Comment0=72|Created0=129
+[Table2]
+SchemaName=
+TableName=SCH_Battery_SchLib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table3]
+SchemaName=
+TableName=SCH_ConnectorHDR_SchLib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table4]
+SchemaName=
+TableName=SCH_Connector_SchLib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table5]
+SchemaName=
+TableName=SCH_IntegratedCircuit_SchLib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table6]
+SchemaName=
+TableName=SCH_Mechanical_SchLib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table7]
+SchemaName=
+TableName=SCH_Microcontroller_SchLib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table8]
+SchemaName=
+TableName=SCH_Module_SchLib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table9]
+SchemaName=
+TableName=SCH_Oscillator_SchLib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table10]
+SchemaName=
+TableName=SCH_Passive_SchLib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table11]
+SchemaName=
+TableName=SCH_Power_SchLib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table12]
+SchemaName=
+TableName=SCH_Radio_SchLib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table13]
+SchemaName=
+TableName=SCH_SDCard_SchLib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table14]
+SchemaName=
+TableName=SCH_Sensor_SchLib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table15]
+SchemaName=
+TableName=SCH_Switch_SchLib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table16]
+SchemaName=
+TableName=SCH_USB_SchLib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[FieldMap1]
+Options=FieldName=SCH_Active_SchLib.Part Number|TableNameOnly=SCH_Active_SchLib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap2]
+Options=FieldName=SCH_Active_SchLib.Library Ref|TableNameOnly=SCH_Active_SchLib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap3]
+Options=FieldName=SCH_Active_SchLib.Footprint Ref|TableNameOnly=SCH_Active_SchLib|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap4]
+Options=FieldName=SCH_Active_SchLib.Footprint Ref 2|TableNameOnly=SCH_Active_SchLib|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap5]
+Options=FieldName=SCH_Active_SchLib.Footprint Ref 3|TableNameOnly=SCH_Active_SchLib|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap6]
+Options=FieldName=SCH_Active_SchLib.Footprint Ref 4|TableNameOnly=SCH_Active_SchLib|FieldNameOnly=Footprint Ref 4|FieldType=1|ParameterName=[Footprint Ref 4]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap7]
+Options=FieldName=SCH_Active_SchLib.Footprint Ref 5|TableNameOnly=SCH_Active_SchLib|FieldNameOnly=Footprint Ref 5|FieldType=1|ParameterName=[Footprint Ref 5]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap8]
+Options=FieldName=SCH_Battery_SchLib.Part Number|TableNameOnly=SCH_Battery_SchLib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap9]
+Options=FieldName=SCH_Battery_SchLib.Library Ref|TableNameOnly=SCH_Battery_SchLib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap10]
+Options=FieldName=SCH_Battery_SchLib.Footprint Ref|TableNameOnly=SCH_Battery_SchLib|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap11]
+Options=FieldName=SCH_ConnectorHDR_SchLib.Part Number|TableNameOnly=SCH_ConnectorHDR_SchLib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap12]
+Options=FieldName=SCH_ConnectorHDR_SchLib.Library Ref|TableNameOnly=SCH_ConnectorHDR_SchLib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap13]
+Options=FieldName=SCH_ConnectorHDR_SchLib.Footprint Ref|TableNameOnly=SCH_ConnectorHDR_SchLib|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap14]
+Options=FieldName=SCH_ConnectorHDR_SchLib.Footprint Ref 2|TableNameOnly=SCH_ConnectorHDR_SchLib|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap15]
+Options=FieldName=SCH_ConnectorHDR_SchLib.Footprint Ref 3|TableNameOnly=SCH_ConnectorHDR_SchLib|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap16]
+Options=FieldName=SCH_ConnectorHDR_SchLib.Footprint Ref 4|TableNameOnly=SCH_ConnectorHDR_SchLib|FieldNameOnly=Footprint Ref 4|FieldType=1|ParameterName=[Footprint Ref 4]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap17]
+Options=FieldName=SCH_ConnectorHDR_SchLib.Footprint Ref 5|TableNameOnly=SCH_ConnectorHDR_SchLib|FieldNameOnly=Footprint Ref 5|FieldType=1|ParameterName=[Footprint Ref 5]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap18]
+Options=FieldName=SCH_ConnectorHDR_SchLib.Footprint Ref 6|TableNameOnly=SCH_ConnectorHDR_SchLib|FieldNameOnly=Footprint Ref 6|FieldType=1|ParameterName=[Footprint Ref 6]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap19]
+Options=FieldName=SCH_ConnectorHDR_SchLib.Footprint Ref 7|TableNameOnly=SCH_ConnectorHDR_SchLib|FieldNameOnly=Footprint Ref 7|FieldType=1|ParameterName=[Footprint Ref 7]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap20]
+Options=FieldName=SCH_ConnectorHDR_SchLib.Footprint Ref 8|TableNameOnly=SCH_ConnectorHDR_SchLib|FieldNameOnly=Footprint Ref 8|FieldType=1|ParameterName=[Footprint Ref 8]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap21]
+Options=FieldName=SCH_ConnectorHDR_SchLib.Footprint Ref 9|TableNameOnly=SCH_ConnectorHDR_SchLib|FieldNameOnly=Footprint Ref 9|FieldType=1|ParameterName=[Footprint Ref 9]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap22]
+Options=FieldName=SCH_Connector_SchLib.Part Number|TableNameOnly=SCH_Connector_SchLib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap23]
+Options=FieldName=SCH_Connector_SchLib.Library Ref|TableNameOnly=SCH_Connector_SchLib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap24]
+Options=FieldName=SCH_Connector_SchLib.Footprint Ref|TableNameOnly=SCH_Connector_SchLib|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap25]
+Options=FieldName=SCH_Connector_SchLib.Footprint Ref 2|TableNameOnly=SCH_Connector_SchLib|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap26]
+Options=FieldName=SCH_IntegratedCircuit_SchLib.Part Number|TableNameOnly=SCH_IntegratedCircuit_SchLib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap27]
+Options=FieldName=SCH_IntegratedCircuit_SchLib.Library Ref|TableNameOnly=SCH_IntegratedCircuit_SchLib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap28]
+Options=FieldName=SCH_IntegratedCircuit_SchLib.Footprint Ref|TableNameOnly=SCH_IntegratedCircuit_SchLib|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap29]
+Options=FieldName=SCH_IntegratedCircuit_SchLib.Footprint Ref 2|TableNameOnly=SCH_IntegratedCircuit_SchLib|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap30]
+Options=FieldName=SCH_Mechanical_SchLib.Part Number|TableNameOnly=SCH_Mechanical_SchLib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap31]
+Options=FieldName=SCH_Mechanical_SchLib.Library Ref|TableNameOnly=SCH_Mechanical_SchLib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap32]
+Options=FieldName=SCH_Mechanical_SchLib.Footprint Ref|TableNameOnly=SCH_Mechanical_SchLib|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap33]
+Options=FieldName=SCH_Microcontroller_SchLib.Part Number|TableNameOnly=SCH_Microcontroller_SchLib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap34]
+Options=FieldName=SCH_Microcontroller_SchLib.Library Ref|TableNameOnly=SCH_Microcontroller_SchLib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap35]
+Options=FieldName=SCH_Microcontroller_SchLib.Footprint Ref|TableNameOnly=SCH_Microcontroller_SchLib|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap36]
+Options=FieldName=SCH_Module_SchLib.Part Number|TableNameOnly=SCH_Module_SchLib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap37]
+Options=FieldName=SCH_Module_SchLib.Library Ref|TableNameOnly=SCH_Module_SchLib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap38]
+Options=FieldName=SCH_Module_SchLib.Footprint Ref|TableNameOnly=SCH_Module_SchLib|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap39]
+Options=FieldName=SCH_Oscillator_SchLib.Part Number|TableNameOnly=SCH_Oscillator_SchLib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap40]
+Options=FieldName=SCH_Oscillator_SchLib.Library Ref|TableNameOnly=SCH_Oscillator_SchLib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap41]
+Options=FieldName=SCH_Oscillator_SchLib.Footprint Ref|TableNameOnly=SCH_Oscillator_SchLib|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap42]
+Options=FieldName=SCH_Oscillator_SchLib.Footprint Ref 2|TableNameOnly=SCH_Oscillator_SchLib|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap43]
+Options=FieldName=SCH_Passive_SchLib.Part Number|TableNameOnly=SCH_Passive_SchLib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap44]
+Options=FieldName=SCH_Passive_SchLib.Library Ref|TableNameOnly=SCH_Passive_SchLib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap45]
+Options=FieldName=SCH_Passive_SchLib.Footprint Ref|TableNameOnly=SCH_Passive_SchLib|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap46]
+Options=FieldName=SCH_Power_SchLib.Part Number|TableNameOnly=SCH_Power_SchLib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap47]
+Options=FieldName=SCH_Power_SchLib.Library Ref|TableNameOnly=SCH_Power_SchLib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap48]
+Options=FieldName=SCH_Power_SchLib.Footprint Ref|TableNameOnly=SCH_Power_SchLib|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap49]
+Options=FieldName=SCH_Power_SchLib.Footprint Ref 2|TableNameOnly=SCH_Power_SchLib|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap50]
+Options=FieldName=SCH_Radio_SchLib.Part Number|TableNameOnly=SCH_Radio_SchLib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap51]
+Options=FieldName=SCH_Radio_SchLib.Library Ref|TableNameOnly=SCH_Radio_SchLib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap52]
+Options=FieldName=SCH_Radio_SchLib.Footprint Ref|TableNameOnly=SCH_Radio_SchLib|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap53]
+Options=FieldName=SCH_Radio_SchLib.Footprint Ref 2|TableNameOnly=SCH_Radio_SchLib|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap54]
+Options=FieldName=SCH_SDCard_SchLib.Part Number|TableNameOnly=SCH_SDCard_SchLib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap55]
+Options=FieldName=SCH_SDCard_SchLib.Library Ref|TableNameOnly=SCH_SDCard_SchLib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap56]
+Options=FieldName=SCH_SDCard_SchLib.Footprint Ref|TableNameOnly=SCH_SDCard_SchLib|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap57]
+Options=FieldName=SCH_SDCard_SchLib.Footprint Ref 2|TableNameOnly=SCH_SDCard_SchLib|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap58]
+Options=FieldName=SCH_Sensor_SchLib.Part Number|TableNameOnly=SCH_Sensor_SchLib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap59]
+Options=FieldName=SCH_Sensor_SchLib.Library Ref|TableNameOnly=SCH_Sensor_SchLib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap60]
+Options=FieldName=SCH_Sensor_SchLib.Footprint Ref|TableNameOnly=SCH_Sensor_SchLib|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap61]
+Options=FieldName=SCH_Switch_SchLib.Part Number|TableNameOnly=SCH_Switch_SchLib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap62]
+Options=FieldName=SCH_Switch_SchLib.Library Ref|TableNameOnly=SCH_Switch_SchLib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap63]
+Options=FieldName=SCH_Switch_SchLib.Footprint Ref|TableNameOnly=SCH_Switch_SchLib|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap64]
+Options=FieldName=SCH_Switch_SchLib.Footprint Ref 2|TableNameOnly=SCH_Switch_SchLib|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap65]
+Options=FieldName=SCH_USB_SchLib.Part Number|TableNameOnly=SCH_USB_SchLib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap66]
+Options=FieldName=SCH_USB_SchLib.Library Ref|TableNameOnly=SCH_USB_SchLib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap67]
+Options=FieldName=SCH_USB_SchLib.Footprint Ref|TableNameOnly=SCH_USB_SchLib|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap68]
+Options=FieldName=SCH_USB_SchLib.Footprint Ref 2|TableNameOnly=SCH_USB_SchLib|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap69]
+Options=FieldName=SCH_USB_SchLib.Footprint Ref 3|TableNameOnly=SCH_USB_SchLib|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
